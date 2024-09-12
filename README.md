@@ -1,0 +1,2 @@
+# studentTradingApp
+First Mern Project
